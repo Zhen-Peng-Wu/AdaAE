@@ -1,0 +1,1 @@
+['attribute_masking', 'edge_perturbation', 'graphsage', 'mean', '64', 'leaky_relu', 'gin', 'mean', '64', 'relu', 'graphsage', 'max', '256', 'linear', 'global_mean']

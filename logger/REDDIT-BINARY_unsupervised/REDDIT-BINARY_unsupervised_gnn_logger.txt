@@ -1,0 +1,2 @@
+['attribute_masking', 'identical', 'gat', 'add', '128', 'relu6', 'gat', 'max', '256', 'relu6', 'graphsage', 'mean', '256', 'sigmoid', 'global_add']
+
