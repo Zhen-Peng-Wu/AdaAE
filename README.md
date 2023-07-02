@@ -1,7 +1,7 @@
 ## Requirements
 
 ```shell
-pytorch 1.8.2+cu111
+pytorch 1.8.1+cu111
 pytorch_geometric 2.0.2
 sklearn 1.0.1 
 rdkit 2022.9.2
