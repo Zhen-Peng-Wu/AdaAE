@@ -1,0 +1,1 @@
+['attribute_masking', 'node_dropping', 'graphsage', 'add', '256', 'leaky_relu', 'graphsage', 'mean', '64', 'tanh', 'gat', 'add', '64', 'softplus', 'global_add']

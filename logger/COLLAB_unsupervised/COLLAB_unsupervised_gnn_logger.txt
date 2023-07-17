@@ -1,0 +1,1 @@
+['node_dropping', 'attribute_masking', 'gcn', 'add', '128', 'relu6', 'gcn', 'add', '256', 'leaky_relu', 'gcn', 'add', '128', 'elu', 'global_add']

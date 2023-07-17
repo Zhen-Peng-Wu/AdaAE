@@ -1,0 +1,1 @@
+['edge_perturbation', 'identical', 'graphsage', 'mean', '128', 'tanh', 'graphsage', 'mean', '256', 'tanh', 'gat', 'add', '128', 'leaky_relu', 'global_add']

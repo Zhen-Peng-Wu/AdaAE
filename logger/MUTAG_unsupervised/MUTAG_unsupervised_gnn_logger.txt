@@ -1,0 +1,1 @@
+['node_dropping', 'subgraph', 'gat', 'add',  '64', 'elu', 'graphsage', 'mean', '128',  'sigmoid', 'gin', 'max', '64', 'relu', 'global_add']
